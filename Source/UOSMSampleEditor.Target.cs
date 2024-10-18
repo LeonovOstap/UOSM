@@ -9,7 +9,6 @@ public class UOSMSampleEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
-		CustomConfig = "EOS";
 
 		ExtraModuleNames.AddRange( new string[] { "UOSMSample" } );
 	}
