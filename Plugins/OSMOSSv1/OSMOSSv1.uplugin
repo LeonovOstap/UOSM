@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "OSMOSSv1",
+	"Description": "OSM stubs for OSSv1",
+	"Category": "Other",
+	"CreatedBy": "Leonov Ostap",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "OSMOSSv1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "OSMOSSv1Host",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

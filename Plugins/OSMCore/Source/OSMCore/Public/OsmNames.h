@@ -1,0 +1,3 @@
+﻿#pragma once
+
+#define OSM_HOST_INTERFACE TEXT("OSM_HOST_INTERFACE")
